@@ -65,5 +65,13 @@ a{
 
 .section-one{
     border: 1px solid white;
-    background-color: darkslateblue;
+    background-color: #483d8b;
+}
+.caption{
+    font-size:15px;
+    font-style: italic;
+
+}
+.container{
+    display: flex;
 }
